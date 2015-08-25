@@ -1,0 +1,19 @@
+{
+    "deb-pynn": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/PyNN.git"
+    },
+    "vmodule": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/vmodule.git"
+    },
+    "logger" : {
+	"type": "git",
+	"url" : "https://github.com/electronicvisions/logger.git"
+    },
+    "spikeyhal": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/spikeyhal.git"
+    },
+    "_vim_modeline": "vim: sw=4 ts=4 expandtab"
+}
