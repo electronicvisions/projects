@@ -15,5 +15,9 @@
         "type": "git",
         "url" : "https://github.com/electronicvisions/spikeyhal.git"
     },
+    "libnux": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/libnux.git"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
