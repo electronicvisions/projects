@@ -1,23 +1,137 @@
 {
     "deb-pynn": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/PyNN.git"
+        "url" : "https://github.com/electronicvisions/PyNN"
     },
     "vmodule": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/vmodule.git"
+        "url" : "https://github.com/electronicvisions/vmodule"
     },
     "logger" : {
 	"type": "git",
-	"url" : "https://github.com/electronicvisions/logger.git"
+	"url" : "https://github.com/electronicvisions/logger"
     },
     "spikeyhal": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/spikeyhal.git"
+        "url" : "https://github.com/electronicvisions/spikeyhal"
     },
     "libnux": {
         "type": "git",
-        "url" : "https://github.com/electronicvisions/libnux.git"
+        "url" : "https://github.com/electronicvisions/libnux"
+    },
+    "pythonic": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pythonic"
+    },
+    "rant": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/rant"
+    },
+    "marocco": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/marocco"
+    },
+    "pyplusplus": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pyplusplus"
+    },
+    "pywrap": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pywrap"
+    },
+    "odeint-v2": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/odeint-v2"
+    },
+    "lib-rcf": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/lib-rcf"
+    },
+    "ztl": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/ztl"
+    },
+    "lib-boost-patches": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/lib-boost-patches"
+    },
+    "hicann-system": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/hicann-system"
+    },
+    "bitter": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/bitter"
+    },
+    "pyhmf": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pyhmf"
+    },
+    "pygccxml": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pygccxml"
+    },
+    "systemsim-stage2": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/ess",
+        "aliases": [ "ess" ]
+    },
+    "ester": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/ester"
+    },
+    "pyublas": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/pyublas"
+    },
+    "calibtic": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/calibtic"
+    },
+    "redman": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/redman"
+    },
+    "sthal": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/sthal"
+    },
+    "s2pp": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/nux",
+        "aliases": [ "nux" ]
+    },
+    "euter": {
+        "type": "git",
+        "url" : "https://github.com/electronicvisions/euter"
+    },
+    "uni" : {
+	"type"          : "git",
+	"url"           : "https://github.com/electronicvisions/uni"
+    },
+    "flyspi-rw_api" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/flyspi-rw_api"
+    },
+    "hwdb" : {
+	"type"          : "git",
+	"url"           : "https://github.com/electronicvisions/hwdb"
+    },
+    "halco" : {
+	"type"          : "git",
+	"url"           : "https://github.com/electronicvisions/halco.git"
+    },
+    "haldls" : {
+	"type"          : "git",
+	"url"           : "https://github.com/electronicvisions/haldls.git"
+    },
+    "hate" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/hate"
+    },
+    "halbe" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/halbe"
     },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
