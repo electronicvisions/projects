@@ -133,5 +133,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/halbe"
     },
+    "sctrltp" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/sctrltp"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
