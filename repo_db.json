@@ -137,5 +137,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/sctrltp"
     },
+    "code-format" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/code-format"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
