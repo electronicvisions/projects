@@ -145,5 +145,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/fisch"
     },
+    "hxcomm" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/hxcomm"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
