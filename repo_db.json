@@ -141,5 +141,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/code-format"
     },
+    "fisch" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/fisch"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
