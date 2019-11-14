@@ -149,5 +149,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/hxcomm"
     },
+    "visions-slurm" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/visions-slurm"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
