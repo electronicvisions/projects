@@ -153,5 +153,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/visions-slurm"
     },
+    "pyhid" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/pyhid"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
