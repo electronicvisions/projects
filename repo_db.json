@@ -161,5 +161,9 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/flange"
     },
+    "pynn-brainscales" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/pynn-brainscales"
+    },
     "_vim_modeline": "vim: sw=4 ts=4 expandtab"
 }
