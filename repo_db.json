@@ -180,6 +180,6 @@
     "bss-hw-params" : {
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/bss-hw-params"
-    }
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
