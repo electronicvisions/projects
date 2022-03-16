@@ -181,5 +181,23 @@
         "type"          : "git",
         "url"           : "https://github.com/electronicvisions/bss-hw-params"
     },
+    "binutils-gdb" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/binutils-gdb",
+        "init_cmds"     : "",
+        "description"   : "Binutils with PPU extensions."
+    },
+    "gcc" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/gcc",
+        "init_cmds"     : "",
+        "description"   : "GCC with PPU extensions."
+    },
+    "newlib" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/newlib",
+        "init_cmds"     : "",
+        "description"   : "Newlib libc targeting PPU kernel programs."
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
