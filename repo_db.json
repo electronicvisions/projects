@@ -199,5 +199,11 @@
         "init_cmds"     : "",
         "description"   : "Newlib libc targeting PPU kernel programs."
     },
+    "oppulance" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/oppulance",
+        "init_cmds"     : "",
+        "description"   : "Compiler and low-level software toolchain for the BrainScaleS-2 embedded processor."
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
