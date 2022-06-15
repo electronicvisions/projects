@@ -205,5 +205,11 @@
         "init_cmds"     : "",
         "description"   : "Compiler and low-level software toolchain for the BrainScaleS-2 embedded processor."
     },
+    "brainscales2-demos" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/brainscales2-demos",
+        "init_cmds"     : "",
+        "description"   : "Collection of BrainScaleS-2 Demos and Examples"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
