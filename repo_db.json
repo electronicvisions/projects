@@ -211,5 +211,11 @@
         "init_cmds"     : "",
         "description"   : "Collection of BrainScaleS-2 Demos and Examples"
     },
+    "nhtl-extoll" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/nhtl-extoll",
+        "init_cmds"     : "",
+        "description"   : "Neuromorphic Hardware Transport Layer via EXTOLL"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
