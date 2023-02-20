@@ -223,5 +223,11 @@
         "init_cmds"     : "",
         "description"   : "EXTOLL's \"RMA\" library"
     },
+    "extoll-driver" : {
+        "type"          : "git",
+        "url"           : "ssh://github.com/electronicvisions/extoll-driver",
+        "init_cmds"     : "",
+        "description"   : "Fork of EXTOLL's kernel driver"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
