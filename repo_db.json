@@ -217,5 +217,11 @@
         "init_cmds"     : "",
         "description"   : "Neuromorphic Hardware Transport Layer via EXTOLL"
     },
+    "librma" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/librma",
+        "init_cmds"     : "",
+        "description"   : "EXTOLL's \"RMA\" library"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
