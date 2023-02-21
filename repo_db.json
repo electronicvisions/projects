@@ -225,7 +225,7 @@
     },
     "extoll-driver" : {
         "type"          : "git",
-        "url"           : "ssh://github.com/electronicvisions/extoll-driver",
+        "url"           : "https://github.com/electronicvisions/extoll-driver",
         "init_cmds"     : "",
         "description"   : "Fork of EXTOLL's kernel driver"
     },
