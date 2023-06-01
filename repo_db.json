@@ -235,5 +235,11 @@
         "init_cmds"     : "",
         "description"   : "An event-based approach to machine-learning-inspired training and simulation of SNNs."
     },
+    "calix" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/calix",
+        "init_cmds"     : "",
+        "description"   : "Calibration for HICANN-X"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
