@@ -241,5 +241,12 @@
         "init_cmds"     : "",
         "description"   : "Calibration for HICANN-X"
     },
+    "nir" : {
+        "type"          : "git",
+        "url"           : "https://github.com/electronicvisions/nir",
+        "default_branch": "main",
+        "init_cmds"     : "",
+        "description"   : "Neuromorphic Intermediate Representation for Spiking Neural Networks"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
